@@ -12,7 +12,7 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
  
 /* time in seconds before the monitor shuts down */
-static const int monitortime = 5;
+static const int monitortime = 10;
 
 /* default message */
 static const char * message = "Suckless: Software that sucks less.";
@@ -20,5 +20,5 @@ static const char * message = "Suckless: Software that sucks less.";
 /* text color */
 static const char * text_color = "#ffffff";
 
-/* text size (must be a valid size) */
-static const char * font_name = "6x10";
+/* text size (must be a valid size) (run 'slock -f' to get it) */
+static const char * font_name = "6x13";
