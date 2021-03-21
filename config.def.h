@@ -21,4 +21,4 @@ static const char * message = "Suckless: Software that sucks less.";
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * font_name = "sans-serif:size:pixelsize=24:antialias=true:autohint=true";
+static const char * font_name = "SF Pro Rounded:size:pixelsize=24:antialias=true:autohint=true";
