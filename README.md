@@ -19,7 +19,7 @@ Here's an example of a custom message displaying the time the screen was locked 
 # Installation
 ### Clone this repository
 
-`git clone https://gitlab.com/oterodiaz/slock`
+`git clone https://github.com/oterodiaz/slock`
 
 ### Go into the folder
 `cd slock`
